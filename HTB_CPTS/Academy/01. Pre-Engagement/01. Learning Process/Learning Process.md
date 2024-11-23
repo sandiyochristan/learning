@@ -5,7 +5,7 @@ Related to:
 See also:
 Previous: [[HTB Academy]]
 
-![[logo_learning_process.png]]
+![logo_learning_process.png](./images/logo_learning_process.png)
 
 The learning process is one of the essential and most important components that is often overlooked. This module does not teach you techniques to learn but describes the process of learning adapted to the field of information security. You will learn to understand how and when we learn best and increase and improve your learning efficiency greatly.
 
@@ -464,7 +464,7 @@ The Trolley Problem is a thought experiment in which three different scenarios h
 
 Try to decide for yourself while trying to figure out how that decision came about.
 
-![[1920px-Trolley_Problem.png]]
+![1920px-Trolley_Problem.png](./images/1920px-Trolley_Problem.png)
 
 70,000 people in 42 countries were surveyed, and the survey results were published in an article in [Proceedings of the National Academy of Sciences](https://www.pnas.org/content/117/5/2332).
 
@@ -492,7 +492,7 @@ In both cases, the procedure changes, but the result remains the same. So in the
 
 Let's consider the following solution to the trolley problem:
 
-![[TrolleyProblem.png]]
+![TrolleyProblem.png](./images/TrolleyProblem.png)
 
 The red lines represent ropes, and the blue circles represent pillars that we have placed. The first thing that comes to mind is:
 
@@ -693,7 +693,7 @@ There is a so-called `Yerkes-Dodson` law, which describes the cognitive perfor
 
 The most used presentation of this law and the performance process is the Hebbian version.
 
-![[NEW_yerkes-dodson-law.png]]
+![NEW_yerkes-dodson-law.png](./images/NEW_yerkes-dodson-law.png)
 
 When it comes to comfort, it depends heavily on whether we have a healthy level of stress or have already crossed the threshold, leading to a reduction in our performance. It is very individual here where our center is. We are in an area that we are used to and that we consider comfortable. Mostly these are situations and fields in which we have already gained a certain amount of experience and know-how to find our way there.
 
@@ -709,7 +709,7 @@ An interesting question that arises here is: "Why small children, unlike adults,
 
 Let us first look at the following diagram:
 
-![[NEW_The-Comfort-Zone-diagram.png]]
+![NEW_The-Comfort-Zone-diagram.png](./images/NEW_The-Comfort-Zone-diagram.png)
 
 >Now imagine you are standing at the entrance in front of a massive dark forest in the middle of the night. This forest is so dense that no daylight can get through the treetops. To the left and right of this forest, some cliffs are much too steep to climb down, and we know that somewhere in this forest, there is the one thing we want to have.\
 Will you go inside and look for it?\
@@ -976,7 +976,7 @@ What goal could we set for ourselves if the previous goal "to obtain information
 
 To do this, we must consider what our questions have in common. All our questions have a commonality: the `relationship` between the individual components. So let us take a quick look at a model we have developed, which we call the `Relationship-Oriented-Questioning Model` (`ROQ`), and see how it looks and works.
 
-![[Questioning1.png]]
+![Questioning1.png](./images/Questioning1.png)
 
 This model represents five components:
 
@@ -1003,7 +1003,7 @@ So even for questions that do not directly concern us or about situations we are
 
 Once we have asked our question, we can break it down into its constituent parts in the `ROQ` model:
 
-![[Questioning2.png]]
+![Questioning2.png](./images/Questioning2.png)
 
 | Component | Question Part | Description |
 | --- | --- | --- |
@@ -1030,7 +1030,7 @@ Mainly we use the operating system to use its functions to solve our tasks. We d
 
 Windows is the most used operating system in the world and has the most compatibility and many user-friendly functions. Therefore, we can also summarize this and call it `Provides functionality`.
 
-![[Questioning3.png]]
+![Questioning3.png](./images/Questioning3.png)
 
 Now we can connect the relations between Windows and the methods we know.
 
@@ -1044,7 +1044,7 @@ Next, the following question comes up:
 
 Here the answer and the purpose are already in the description - these allow `Remote Access`.
 
-![[Questioning4.png]]
+![Questioning4.png](./images/Questioning4.png)
 
 Now let us look at what we know about the known remote access methods.
 
@@ -1056,7 +1056,7 @@ The purpose is to be able to manage Windows in different ways remotely. So all w
 
 Apart from the different services these methods are designed for, they all have one thing in common. They allow us to interact with Windows. Therefore we call this connection `Allow to interact with`.
 
-![[Questioning5.png]]
+![Questioning5.png](./images/Questioning5.png)
 
 Since we already know some remote access methods, we know how they are connected to Windows. Before Windows can be accessed remotely, the corresponding service must be running.
 
@@ -1070,13 +1070,13 @@ Now the same question arises again.
 
 The different methods offer different ways to access Windows. Because the purpose of the methods, in this case, has not changed. Therefore we call it again: `Remote Access`.
 
-![[Questioning6.png]]
+![Questioning6.png](./images/Questioning6.png)
 
 Now that we know and understand the relationships between all the individual components, we know exactly what information we are missing and what we should focus on. In this case, we can use `Windows services` to find the unknown remote access methods. Therefore, if we look closely at all possible services that allow remote access, we can probably even find our own ways to use the service for remote access.
 
 The special thing about this model is that it is stackable. For example, if we have identified such Windows services and found unknown methods, the field `Unknown` becomes `Known` and would look like this:
 
-![[Questioning7.png]]
+![Questioning7.png](./images/Questioning7.png)
 
 * * * * *
 
@@ -1109,7 +1109,7 @@ The frustration tolerance can be trained and developed very well. There have cer
 
 In order to express frustration tolerance in this way, it is crucial to know where it comes from. Let us take a look at the following diagram:
 
-![[NEW_Vision.png]]
+![NEW_Vision.png](./images/NEW_Vision.png)
 
 Since we are dealing with frustration here, we can see from the diagram that, in this case, we lack some resources that frustrate us. In information security and pentesting, these kinds of resources will often be information that we have to work with. Perhaps we have already read it several times that "`Enumeration is key`". If not, it is not bad. We will fall over it.
 
