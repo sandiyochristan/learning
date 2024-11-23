@@ -5,7 +5,7 @@ Related to:
 See also:
 Previous: [[HTB Academy]]
 
-![[logo_penetration_testing_process.png]]
+![logo_penetration_testing_process.png](./images/logo_penetration_testing_process.png)
 
 This module teaches the penetration testing process broken down into each stage and discussed in detail. We will cover many aspects of the role of a penetration tester during a penetration test, explained and illustrated with detailed examples. The module also covers pre-engagement steps like the criteria for establishing a contract with a client for a penetration testing engagement.
 
@@ -140,7 +140,7 @@ The remainder of this section will explain how we have structured the modules in
 
 >The module listing shown corresponds to the sequence we recommend beginners or advanced users who are "stuck" follow to be able to improve in specific areas at each stage of the penetration testing process.
 
-![[0-PT-Process.png]]
+![0-PT-Process.png](./images/0-PT-Process.png)
 
 * * * * *
 
@@ -149,7 +149,7 @@ The remainder of this section will explain how we have structured the modules in
 
 The pre-engagement stage is where the main commitments, tasks, scope, limitations, and related agreements are documented in writing. During this stage, contractual documents are drawn up, and essential information is exchanged that is relevant for penetration testers and the client, depending on the type of assessment.
 
-![[0-PT-Process-PRE.png]]
+![0-PT-Process-PRE.png](./images/0-PT-Process-PRE.png)
 
 There is only one path we can take from here:
 
@@ -163,7 +163,7 @@ At this stage in the process, we should have a strong foundation that can be bui
 
 |  |  |
 | --- | --- |
-| ![[logo9.png]] | To acquire this knowledge as quickly and as well as possible, we need to know how a human being's `Learning Process` works and how to avoid stumbling blocks during the process. In this module we learn the art of how our brain works and how we can use this knowledge to increase our learning efficiency dramatically.
+| ![logo9.png](./images/logo9.png) | To acquire this knowledge as quickly and as well as possible, we need to know how a human being's `Learning Process` works and how to avoid stumbling blocks during the process. In this module we learn the art of how our brain works and how we can use this knowledge to increase our learning efficiency dramatically.
 
 
 In addition, we need fundamental knowledge about the world's most widely used operating systems. This includes `Linux` and `Windows` operating systems. Before we attack these systems, we first need to know how they work, so we can then learn how to best exploit them.
