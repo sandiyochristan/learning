@@ -5,7 +5,7 @@ Related to: [[uname]], [[sudo]]
 See also: 
 Previous: [[ ]]
 
-![[images/logo_intro_to_academy.png]]
+![[logo_intro_to_academy.png]]
 
 This module is recommended for new users. It allows users to become acquainted with the platform and the learning process.
 
@@ -183,7 +183,7 @@ Interactive sections within the modules will have either an accompanying Docker 
 
 For modules that use a Docker target, the instance will take the form of `http://<ip>:<port>` after spawning, i.e. `http://157.245.40.149:30655`. Once this image spawns, you can choose to interact with it from the provided Pwnbox, your own VM, etc. Docker images will typically spawn more quickly than VMs. Click on `Click here to spawn the target system!` to spawn the target Docker image.
 
-![[images/docker_target1.png]]
+![[docker_target1.png]]
 
 ---
 
@@ -191,7 +191,7 @@ For modules that use a Docker target, the instance will take the form of `http:
 
 Modules that have either a Windows target, Active Directory (AD) environment, require multiple hosts, or otherwise cannot be completed using a Docker image will have an accompanying VM or set of VMs. You can click to spawn this target the same way. If the target VM requires authentication, you will be provided with credentials to authenticate via `SSH`. `WinRM`, `RDP`, etc. If you are not provided with credentials, it is safe to assume that you must attack the target from an unauthenticated standpoint unless otherwise instructed. If you choose to interact with the target via the Pwnbox, you will be automatically connected to the Academy lab VPN once the Pwnbox and target VM are spawned. Click on `Click here to spawn the target system!` to spawn the target VM.
 
-![[images/vm_target1.png]]
+![[vm_target1.png]]
 
 Alternatively, you can choose to download a VPN key to interact with target VMs from your own attack box. Any targets with an accompanying VPN key will have a download button next to the Cheat Sheet on the right-hand side of the first exercise box.
 
@@ -281,7 +281,7 @@ Both paths would make sense to have some entry-level `Modules` to teach you th
 
 By now, you should be familiar with the various aspects and layout of the Academy.
 
-![[images/structure2.png]]
+![[structure2.png]]
 
 Start by picking your next `Module` or `Path` and happy learning!
 
