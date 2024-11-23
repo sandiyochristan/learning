@@ -5,7 +5,7 @@ Related to: [[uname]], [[sudo]]
 See also: 
 Previous: [[ ]]
 
-![[logo_intro_to_academy.png]]
+![img](logo_intro_to_academy.png)
 
 This module is recommended for new users. It allows users to become acquainted with the platform and the learning process.
 
